@@ -11,8 +11,7 @@
 ## **Overview**
 To facilitate student connection, we introduce **Manoa Connect**, a social networking website that applies matching functionalities reminiscent of dating apps (_Tinder_, _Hinge_, etc.) but in the context of finding friends on the UH Manoa campus.
 
-The motivation for this website are derived from the following:
-
+### **Motivation**
 * Despite 20,000 students on the UH Manoa campus, some students have a hard time making friends outside of their (ongoing/previous) classes or majors
   * Difficulties being in a foreign environment (_i.e. incoming freshmen, sophomores, exchange students_)
   * Difficulty breaking into established social groups (_i.e. juniors/seniors_)
@@ -20,47 +19,48 @@ The motivation for this website are derived from the following:
 * Certain people may be socially inexperience/have an introverted nature
 * Pandemic times may have shifted cultural norms on offline socialization (_i.e. people may prefer socializing online more now_)
 
-Our "Big Picture" vision is to develop a thriving social platform distinct to members (specifically students) of UH Manoa. Our ideal outcomes for students include:
+### **Goal**
+Our "Big Picture" vision is to develop a thriving social platform distinct to members of UH Manoa (specifically students). Our ideal outcomes for students include:
 
 * Developing friendships with people from different majors at UH Manoa provide new perspectives
 * New career/networking opportunities can arise from students in different fields of study
 * Learning how to socialize with people who have unique backgrounds nurtures social skills applicable throughout life
 
-**Final Presentation:** [Google Slides](https://docs.google.com/presentation/d/1SNOkvmU1mH7Ymwontio2Z7-_S7rfsOa7PxnWv8czc8g/edit?usp=sharing)
-
 ## **Team and Roles**
 
 Manoa Connect is designed, implemented, and maintained by [Codie Nakamura](http://codie-n.github.io/), [Chaezen-Lee Pebria](https://chaezenp.github.io/), [Masaki Sakai](https://masaki-sk.github.io/), and [Aaron Ramos](https://aar0m.github.io/).
 
-### **Chaezen Pebria - Page Specialist**
-Develops design for certain pages and page-specific features.
-- “Matching/Connect” page
-- Settings page
+**Chaezen Pebria - Page Specialist**\
+_Develops design for certain pages and page-specific features._\
+\- “Matching/Connect” page\
+\- Settings page
 
-### **Masaki Sakai - Page Specialist**
-Develops design for certain pages and page-specific features.
-- Friends page
-- Chat page
+**Masaki Sakai - Page Specialist**\
+_Develops design for certain pages and page-specific features._\
+\- Friends page\
+\- Chat page
 
-### **Codie Nakamura - Project Manager**
-Tracks team actions on GitHub; develops design for pages and specific features.
-- GitHub
-- User home page
-- User profile
+**Codie Nakamura - Project Manager, Page Specialist**\
+_Tracks team actions on GitHub; develops design for pages and specific features._\
+\- GitHub\
+\- User home page\
+\- User profile
 
-### **Aaron Ramos - Project Manager, Gopher **
-Coordinate team and project direction; help others with design/code/testing.
-- Landing page
-- Login/Signup page
-- Graphics
+**Aaron Ramos - Project Manager, Gopher**\
+_Coordinate team and project direction; help others with design/code/testing._\
+\- Landing page\
+\- Login/Signup page\
+\- Graphics
 
 ## **Tools and Organization**
 **Meeting Time:** Sunday 6PM Discord + Tuesday in-class
 
-**Discord Text Channels**
-- Communication
-- Links - _important documents/links (i.e. proposal, sheets tracking, GitHub)_
-- Assets - _Preliminary assets for everyone to review and look at_
+**Discord Text Channels**\
+\- Communication\
+\- Links --- _important documents/links (i.e. proposal, sheets tracking, GitHub)_\
+\- Assets --- _Preliminary assets for everyone to review and look at_
+
+**Final Presentation:** [Google Slides](https://docs.google.com/presentation/d/1SNOkvmU1mH7Ymwontio2Z7-_S7rfsOa7PxnWv8czc8g/edit?usp=sharing)
 
 ## **Page List**
 
