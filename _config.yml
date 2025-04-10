@@ -2,7 +2,7 @@ title: Manoa Connect
 description: A software engineering project to make connections at UH Manoa.
 google_analytics:
 show_downloads: true
-theme: jekyll-theme-minima
+remote_theme: "jekyll/minima@1e8a445"
 
 gems:
   - jekyll-mentions
