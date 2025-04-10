@@ -1,6 +1,6 @@
 <img src="img/assets/manoa-connect_logo-text_dark.png" width="100%" style="margin-left: auto; margin-right: auto; display: block; padding-bottom: 5%; padding-top: 2%">
 
-## Table of contents
+## **Table of contents**
 
 * [Overview](#overview)
 * [Team](#team-and-organization)
@@ -8,7 +8,7 @@
 * [Mockups](#mockups)
 * [Development Timeline](#development-timeline)
 
-## Overview
+## **Overview**
 To facilitate student connection, we introduce **Manoa Connect**, a social networking website that applies matching functionalities reminiscent of dating apps (_Tinder_, _Hinge_, etc.) but in the context of finding friends on the UH Manoa campus.
 
 The motivation for this website are derived from the following:
@@ -22,33 +22,33 @@ The motivation for this website are derived from the following:
 * New career/networking opportunities can arise from students in different fields of study
 * Learning how to socialize with people who have unique backgrounds nurtures social skills applicable throughout life
 
-## Team and Roles
+## **Team and Roles**
 
 Manoa Connect is designed, implemented, and maintained by [Codie Nakamura](http://codie-n.github.io/), [Chaezen-Lee Pebria](https://chaezenp.github.io/), [Masaki Sakai](https://masaki-sk.github.io/), and [Aaron Ramos](https://aar0m.github.io/).
 
-### Chaezen Pebria - Page Specialist
+### **Chaezen Pebria - Page Specialist**
 Develops design for certain pages and page-specific features.
 - “Matching/Connect” page
 - Settings page
 
-### Masaki Sakai - Page Specialist
+### **Masaki Sakai - Page Specialist**
 Develops design for certain pages and page-specific features.
 - Friends page
 - Chat page
 
-### Codie Nakamura - Project Manager
+### **Codie Nakamura - Project Manager**
 Tracks team actions on GitHub; develops design for pages and specific features.
 - GitHub
 - User home page
 - User profile
 
-### Aaron Ramos - Project Manager, Gopher 
+### **Aaron Ramos - Project Manager, Gopher **
 Coordinate team and project direction; help others with design/code/testing.
 - Landing page
 - Login/Signup page
 - Graphics
 
-## Tools and Organization
+## **Tools and Organization**
 **Meeting Time:** Sunday 6PM Discord + Tuesday in-class
 
 **Discord Text Channels**
@@ -58,7 +58,7 @@ Coordinate team and project direction; help others with design/code/testing.
 
 Big Picture Presentation: [Google Slides](https://docs.google.com/presentation/d/1SNOkvmU1mH7Ymwontio2Z7-_S7rfsOa7PxnWv8czc8g/edit?usp=sharing)
 
-## Page List
+## **Page List**
 
 This section provides a set of pages for Manoa Connect that will be implemented.
 
@@ -80,26 +80,26 @@ This section provides a set of pages for Manoa Connect that will be implemented.
 
 **Settings:** Settings to filter people shown (i.e. by major, interests, etc.)
 
-## Mockups
+## **Mockups**
 
-### Landing Page
+### **Landing Page**
 - Links to join now page
 
 <img src="img/landing.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
-### Login/Signup
+### **Login/Signup**
 
 <img src="img/signup.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
 <img src="img/login.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
-### User Home Page
+### **User Home Page**
 - New messages box will be a button leading to the chat page
 - There is second connect button (besides the one in the navbar) to go to the matching page
 
 <img src="img/user-home.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
-### User Profile Page
+### **User Profile Page**
 - **Dropdown:** Major, Year, Commuter status, MBTI
 - **Textboxes:** List of current and previous classes, clubs, likes/interests
 - Scroll down to upload/edit photos
@@ -108,7 +108,7 @@ This section provides a set of pages for Manoa Connect that will be implemented.
 
 <img src="img/user-pics.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
-### “Matching/Connect” Page
+### **“Matching/Connect” Page**
 - Manoa ID-inspired layout (flips from front to back on button press)
 - Contact object
   - Name
@@ -124,7 +124,7 @@ This section provides a set of pages for Manoa Connect that will be implemented.
 
 <img src="img/connect-back.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
-### Settings Page
+### **Settings Page**
 - Access from profile page/dropdown from top right corner
 - Scrollable 
 - Test 
@@ -133,7 +133,7 @@ This section provides a set of pages for Manoa Connect that will be implemented.
 
 <img src="img/settings.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
-### Friends List and Chat Page
+### **Friends List and Chat Page**
 - Chat implemented using note and timestamp function
 - Last conversation is the order of list
 - Sort the chat box by the most recent conversation
@@ -146,23 +146,22 @@ This section provides a set of pages for Manoa Connect that will be implemented.
 
 <img src="img/chat-clicked.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
-## Development Timeline
+## **Development Timeline**
 - [Milestone 1](#milestone-1-m1)
 - [Milestone 2](#milestone-2-m2)
 - [Milestone 3](#milestone-3-m3)
 
-### Milestone 1 (M1)
+### **Milestone 1 (M1)**
 
 <img src="img/repo/milestone1.png" width="90%" style="margin-left: auto; margin-right: auto; display: block; padding-bottom: 2%;">
-
 
 - Completed landing Page
 - Templates mockups of other pages in NextJS
 - Setup GitHub issues and GitHub project
 - Project home page
 
-### Milestone 2 (M2)
+### **Milestone 2 (M2)**
 _TBA_
 
-### Milestone 3 (M3)
+### **Milestone 3 (M3)**
 _TBA_
