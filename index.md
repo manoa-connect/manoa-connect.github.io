@@ -1,6 +1,5 @@
 <img src="img/assets/manoa-connect_logo-text_dark.png" width="100%" style="margin-left: auto; margin-right: auto; display: block; padding-bottom: 5%; padding-top: 2%">
 
-# Manoa Connect
 ## Table of contents
 
 * [Overview](#overview)
