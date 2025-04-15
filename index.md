@@ -104,28 +104,30 @@ This section provides a set of pages for Manoa Connect that will be implemented.
 ### **Landing Page**
 - Links to join now page
 
-<img src="img/landing.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
+<img src="img/m1-progress/landing-page1.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
+
+<img src="img/m1-progress/landing-page2.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
 ### **Login/Signup**
 
-<img src="img/signup.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
+<img src="img/m1/signup.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
-<img src="img/login.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
+<img src="img/m1/login.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
 ### **User Home Page**
 - New messages box will be a button leading to the chat page
 - There is second connect button (besides the one in the navbar) to go to the matching page
 
-<img src="img/user-home.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
+<img src="img/m1-progress/user-home.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
 ### **User Profile Page**
 - **Dropdown:** Major, Year, Commuter status, MBTI
 - **Textboxes:** List of current and previous classes, clubs, likes/interests
 - Scroll down to upload/edit photos
 
-<img src="img/user-info.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
+<img src="img/m1-progress/card-back.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
-<img src="img/user-pics.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
+<img src="img/m1-progress/card-front.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
 ### **“Matching/Connect” Page**
 - Manoa ID-inspired layout (flips from front to back on button press)
@@ -139,9 +141,9 @@ This section provides a set of pages for Manoa Connect that will be implemented.
   -  Extracurricular clubs
   -  MBTI
 
-<img src="img/connect-front.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
+<img src="img/m1/connect-front.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
-<img src="img/connect-back.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
+<img src="img/m1/connect-back.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
 ### **Settings Page**
 - Access from profile page/dropdown from top right corner
@@ -150,7 +152,7 @@ This section provides a set of pages for Manoa Connect that will be implemented.
 - Mostly dropdowns
 - Some text boxes
 
-<img src="img/settings.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
+<img src="img/m1/settings.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
 ### **Friends List and Chat Page**
 - Chat implemented using note and timestamp function
@@ -161,9 +163,9 @@ This section provides a set of pages for Manoa Connect that will be implemented.
 - Deleting is like blocking because we will not reconnect the same people again
   - It shows caution window to delete someone
 
-<img src="img/chat-default.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
+<img src="img/m1/chat-default.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
-<img src="img/chat-clicked.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
+<img src="img/m1/chat-clicked.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
 
 
@@ -184,7 +186,15 @@ This section provides a set of pages for Manoa Connect that will be implemented.
 - Project home page
 
 ### **Milestone 2 (M2)**
-_TBA_
+
+<img src="img/repo/milestone2.png" width="90%" style="margin-left: auto; margin-right: auto; display: block; padding-bottom: 2%;">
+
+[Link](https://github.com/orgs/manoa-connect/projects/2) to the GitHub project view for Milestone 2.
+
+- Configure and test database for 'Friends' object
+- Complete account creation process
+- Test 1 account
+- Continue refining incompleted pages
 
 ### **Milestone 3 (M3)**
 _TBA_
