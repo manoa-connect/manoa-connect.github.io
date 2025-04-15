@@ -8,6 +8,8 @@
 * [Mockups](#mockups)
 * [Development Timeline](#development-timeline)
 
+[Link](https://github.com/manoa-connect) to GitHub page.
+
 
 
 ## **Overview**
