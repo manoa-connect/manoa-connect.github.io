@@ -1,15 +1,19 @@
 <img src="img/assets/manoa-connect_logo-text_dark.png" width="100%" style="margin-left: auto; margin-right: auto; display: block; padding-bottom: 5%; padding-top: 2%">
 
 ## **Table of contents**
-
 * [Overview](#overview)
-* [Team](#team-and-organization)
+* [Team](#team-and-roles)
+* [Deployment](#deployment)
 * [Page List](#page-list)
 * [Mockups](#mockups)
 * [Development Timeline](#development-timeline)
 
+
+
 ## **Overview**
 To facilitate student connection, we introduce **Manoa Connect**, a social networking website that applies matching functionalities reminiscent of dating apps (_Tinder_, _Hinge_, etc.) but in the context of finding friends on the UH Manoa campus.
+
+
 
 ### **Motivation**
 * Despite 20,000 students on the UH Manoa campus, some students have a hard time making friends outside of their (ongoing/previous) classes or majors
@@ -19,6 +23,8 @@ To facilitate student connection, we introduce **Manoa Connect**, a social netwo
 * Certain people may be socially inexperience/have an introverted nature
 * Pandemic times may have shifted cultural norms on offline socialization (_i.e. people may prefer socializing online more now_)
 
+
+
 ### **Goal**
 Our "Big Picture" vision is to develop a thriving social platform distinct to members of UH Manoa (specifically students). Our ideal outcomes for students include:
 
@@ -26,9 +32,12 @@ Our "Big Picture" vision is to develop a thriving social platform distinct to me
 * New career/networking opportunities can arise from students in different fields of study
 * Learning how to socialize with people who have unique backgrounds nurtures social skills applicable throughout life
 
-## **Team and Roles**
 
+
+## **Team and Roles**
 Manoa Connect is designed, implemented, and maintained by [Codie Nakamura](http://codie-n.github.io/), [Chaezen-Lee Pebria](https://chaezenp.github.io/), [Masaki Sakai](https://masaki-sk.github.io/), and [Aaron Ramos](https://aar0m.github.io/).
+
+**Formal Team Contract**: Our formal contract with agreements and criteria can be found [here](https://docs.google.com/document/d/1HFMJAH2i93QQrADcZRahhympfoDfzt7imEc7af-ks4g/edit?usp=sharing).
 
 **Chaezen Pebria - Page Specialist**\
 _Develops design for certain pages and page-specific features._\
@@ -62,8 +71,14 @@ _Coordinate team and project direction; help others with design/code/testing._\
 
 **Final Presentation:** [Google Slides](https://docs.google.com/presentation/d/1SNOkvmU1mH7Ymwontio2Z7-_S7rfsOa7PxnWv8czc8g/edit?usp=sharing)
 
-## **Page List**
 
+
+# **Deployment**
+Manoa Connect uses PostgreSQL, NextJS, and is deployed on Vercel. To visit the website, click [here](https://manoa-connect-app.vercel.app/).
+
+
+
+## **Page List**
 This section provides a set of pages for Manoa Connect that will be implemented.
 
 * [Landing page](#landing-page)
@@ -150,6 +165,8 @@ This section provides a set of pages for Manoa Connect that will be implemented.
 
 <img src="img/chat-clicked.png" width="75%" style="margin-left: auto; margin-right: auto; display: block;">
 
+
+
 ## **Development Timeline**
 - [Milestone 1](#milestone-1-m1)
 - [Milestone 2](#milestone-2-m2)
@@ -158,6 +175,8 @@ This section provides a set of pages for Manoa Connect that will be implemented.
 ### **Milestone 1 (M1)**
 
 <img src="img/repo/milestone1.png" width="90%" style="margin-left: auto; margin-right: auto; display: block; padding-bottom: 2%;">
+
+[Link](https://github.com/orgs/manoa-connect/projects/1/views/1) to the GitHub project view for Milestone 1.
 
 - Completed landing Page
 - Templates mockups of other pages in NextJS
