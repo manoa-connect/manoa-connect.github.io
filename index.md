@@ -13,6 +13,7 @@
 * [Development Timeline](#development-timeline)
 
 [Link](https://github.com/manoa-connect) to GitHub page.
+
 [Link](https://manoa-connect-now.vercel.app/) to Manoa Connect deployed on Vercel.
 
 
