@@ -17,7 +17,9 @@
 
 [Link](https://manoa-connect-now.vercel.app/) to Manoa Connect deployed on Vercel.
 
-![ci-badge](https://github.com/manoa-connect/manoa-connect/workflows/ci-manoa-connect-app-react/badge.svg)
+<img src="https://github.com/manoa-connect/manoa-connect/workflows/ci-manoa-connect-app-react/badge.svg">
+
+[ci-badge](https://github.com/manoa-connect/manoa-connect/workflows/ci-manoa-connect-app-react/badge.svg)
 
 ## **Overview**
 To facilitate student connection, we introduce **Manoa Connect**, a social networking website that applies matching functionalities reminiscent of dating apps (_Tinder_, _Hinge_, etc.) but in the context of finding friends on the UH Manoa campus.
